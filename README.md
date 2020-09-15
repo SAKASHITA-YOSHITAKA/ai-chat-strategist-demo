@@ -34,7 +34,7 @@ const app = express();
 
 const projectId = 'strategist-demo-qoao';
 const appId = '8c758601-c45c-4fc1-8e55-8aa23e205f8e';
-const appPassword = 'BXTM526jxl3D.j21jmIxfrvxw~9-38.8-u';
+const appPassword = '8DQv76(H{jQv0f7J3]VBrh[ah';
 
 const sessionClient = new dialgoflowSessionClient(projectId);
 
